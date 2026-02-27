@@ -7,6 +7,7 @@ This project conducts panel data regression analysis examining the relationship 
 - Robust standard errors (HC1)
 - Hausman test for model selection
 - Cross-country panel data construction
+- Sensitivity analysis across model specifications
 
 ## Tools
 R (tidyverse, plm, lmtest, sandwich)
