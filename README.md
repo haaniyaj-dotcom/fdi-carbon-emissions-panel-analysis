@@ -14,3 +14,4 @@ R (tidyverse, plm, lmtest, sandwich)
 
 ## Overview
 The analysis evaluates how investment patterns influence environmental outcomes and highlights the importance of empirical specification in development research.
+Note: Raw datasets are not included in this repository.
